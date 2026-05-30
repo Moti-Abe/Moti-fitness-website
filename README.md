@@ -1,8 +1,8 @@
-#  🏋️‍♂️ Moti Fitness Website
-Moti Fitness App is a responsive fitness and gym trainer website built to showcase workout programs, pricing plans, and personal training services. The platform combines **fitness passion** with **technology** to help people achieve their health goals.
+#  🏋️‍♂️ Digital Trainer Website
+Moti Fitness App with Digital Trainer app is a responsive fitness and gym trainer website built to showcase workout programs, pricing plans, and personal training services. The platform combines **fitness passion** with **technology** to help people achieve their health goals.
 
 🔗 **Live Demo:**  
-https://moti-fitness-app.vercel.app/
+https://digital-trainer-app.vercel.app
 
 ## 📌 Features
 
